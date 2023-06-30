@@ -1,0 +1,34 @@
+{
+  "name": "devevilbot",
+  "version": "2.0.0",
+  "description": "DevEvilBot.xyz is a multifunctional bot that simplifies server management, Also features Games , Fun , NSFW, Welcome Message , Leveling System and much more...",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "DevEvil#8745",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@sentry/node": "^6.11.0",
+    "@sentry/tracing": "^6.11.0",
+    "aki-api": "^5.2.1",
+    "bindings": "^1.5.0",
+    "chalk": "^4",
+    "cpu-stat": "^2.0.1",
+    "dateformat": "^4.5.1",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "erela.js": "^2.3.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "nekos.life": "^2.0.7",
+    "node-superfetch": "^0.2.2",
+    "parse-ms": "^3.0.0",
+    "pretty-ms": "^7.0.1",
+    "superagent": "^6.1.0",
+    "ultrax": "^1.9.0",
+    "weather-js": "^2.0.0"
+  }
+}
